@@ -39,3 +39,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 Special thanks to contributors and open-source datasets used in this project.
 
+## Screenshots
+![Alt Text](images/Screenshot 2025-01-09 155104.png)
+
+
