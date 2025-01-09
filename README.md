@@ -4,7 +4,8 @@
 This project focuses on building a machine learning model to detect marine waste from images. By leveraging advanced computer vision techniques and deep learning, the model aims to identify and classify waste materials in aquatic environments, contributing to environmental conservation efforts.
 
 ## Features
-- **Image Classification**: Detects and classifies different types of waste in marine environments.
+-**An Accuracy of 90%**
+- **Binary Classification**: Detects and classifies different types of waste in marine environments as either plastic or no plastic.
 - **Real-Time Prediction**: Supports integration with live camera feeds for real-time waste detection.
 - **Scalable Design**: Easily extendable for additional waste categories or environments.
 
@@ -13,7 +14,7 @@ This project focuses on building a machine learning model to detect marine waste
 - **TensorFlow/Keras**: Used for building and training the deep learning model.
 - **NVIDIA CUDA & CUDNN**: Deep learning functionalities and framework
 - **OpenCV**: For image processing and integration with camera feeds.
-- **Matplotlib & Seaborn**: For data visualization and performance metrics.
+- **Matplotlib**: For data visualization and performance metrics.
 - **Git**: Version control.
   
 ## WSL Environment Notes
@@ -46,6 +47,10 @@ Ten random predictions from the test dataset.
 Confusion Matrix.
 
 ![Alt Text](images/2.png)
+
+Accuracy and Loss progress while the model was training
+
+![Alt Text](images/3.png)
 
 
 
