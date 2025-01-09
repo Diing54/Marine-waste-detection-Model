@@ -16,6 +16,12 @@ This project focuses on building a machine learning model to detect marine waste
 - **OpenCV**: For image processing and integration with camera feeds.
 - **Matplotlib & Seaborn**: For data visualization and performance metrics.
 - **Git**: Version control.
+  
+## WSL Environment Notes
+
+This project is developed in a Windows Subsystem for Linux (WSL) environment using VS Code and Jupyter Notebook. While the model supports live camera feeds using OpenCV, WSL cannot access the laptop's webcam directly. Windows users can integrate the OpenCV camera feed if running the project natively on Windows.
+
+For faster training, this project utilizes a laptop with an NVIDIA dedicated GPU.
 
 ## Dataset
 The dataset consists of labeled images of various types of marine waste, collected from kaggle. The dataset is divided into training, validation, and test sets to ensure robust model performance.
