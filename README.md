@@ -1,5 +1,4 @@
 # Marine-waste-detection-Model
-# Marine Waste Detection Model
 
 ## Overview
 This project focuses on building a machine learning model to detect marine waste from images. By leveraging advanced computer vision techniques and deep learning, the model aims to identify and classify waste materials in aquatic environments, contributing to environmental conservation efforts.
@@ -40,8 +39,14 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to contributors and open-source datasets used in this project.
 
 ## Screenshots
-Ten random predictions from the test dataset
+Ten random predictions from the test dataset.
+
 ![Alt Text](images/1.png)
+
+Confusion Matrix.
+
+![Alt Text](images/2.png)
+
 
 
 
