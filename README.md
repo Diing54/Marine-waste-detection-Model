@@ -40,6 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 Special thanks to contributors and open-source datasets used in this project.
 
 ## Screenshots
+Ten random predictions from the test dataset
 ![Alt Text](images/1.png)
 
 
